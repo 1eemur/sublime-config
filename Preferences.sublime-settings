@@ -1,0 +1,9 @@
+{
+	"font_size": 12,
+	"theme": "Default Dark.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Mariana.sublime-color-scheme",
+}
